@@ -47,12 +47,53 @@ Lading page for gym *fictitious: FORMA | Developed with pure HTML, CSS and Javas
 
 ## 📁 Project structure
 ```
-academia-forma/
+gym-forma/
 ├── index.html   # Estrutura HTML da página
 ├── style.css    # Estilos, animações e responsividade
 ├── script.js    # Interações e comportamentos
 └── README.md    # Documentação
 ```
+
+---
+
+## 🚀 How to run locally
+
+```bash
+# clone the repository
+git clone https://github.com/OsorioDevx/FORMA-GYM.git
+
+# enter the folder
+cd gym-forma
+
+# Open the file in the browser
+# Just open the index.html directly, no server needed
+```
+
+---
+
+## 📱 Responsiveness
+
+The layout is suitable for screens smaller than 900px, includes the collection of the navigation menu, the reorganization of the plan cards in single column and adjustment of spacings
+
+## 🎨 Colo palette
+
+| Variable | Color | Use |
+|---|---|---|
+| `--black` | `#0a0a0a` | Main background |
+| `--white` | `#f5f2ee` | Texts |
+| `--accent` | `#c8f53a` | Highlights and CTAs |
+| `--gray` | `#1c1c1c` | Cards and surfaces |
+| `--mid` | `#888888` | Secondary texts |
+
+---
+
+## 📌 Observations 
+
+- The hero's image is a placeholder from Unsplash. In a real project, it would be replaced by a client photo
+- The whatsapp number on the CTA button must be updated with the actual contact
+- The project does not use external frameworks or libraries
+
+---
 
 
 
