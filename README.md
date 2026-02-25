@@ -48,10 +48,10 @@ Lading page for gym *fictitious: FORMA | Developed with pure HTML, CSS and Javas
 ## 📁 Project structure
 ```
 gym-forma/
-├── index.html   # Estrutura HTML da página
-├── style.css    # Estilos, animações e responsividade
-├── script.js    # Interações e comportamentos
-└── README.md    # Documentação
+├── index.html   # Page HTML structure
+├── style.css    # Styles, animations and responsiveness
+├── script.js    # interactions and behaviors
+└── README.md    # Documentation
 ```
 
 ---
