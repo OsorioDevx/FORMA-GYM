@@ -13,12 +13,12 @@ Lading page for gym *fictitious: FORMA | Developed with pure HTML, CSS and Javas
 
 ## 📋 Sections  
 
-- **Hero** — title of impact with image and floating statistics
-- **Marquee** — lively track with the modes offered
-- **Planos** — 3 options of plans highlighted in the most popular
-- **Modalidades** — schedule with the available activities
-- **CTA** — call to action with direct link to WhatsApp
-- **Footer** — contact links and social networks
+- **Hero** - title of impact with image and floating statistics
+- **Marquee** - lively track with the modes offered
+- **Planos** - 3 options of plans highlighted in the most popular
+- **Modalidades** - schedule with the available activities
+- **CTA** - call to action with direct link to WhatsApp
+- **Footer** - contact links and social networks
 
 ---
 
