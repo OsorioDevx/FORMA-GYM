@@ -47,7 +47,7 @@ Lading page for gym *fictitious: FORMA | Developed with pure HTML, CSS and Javas
 
 ## 📁 Project structure
 ```
-gym-forma/
+FORMA-GYM/
 ├── index.html   # Page HTML structure
 ├── style.css    # Styles, animations and responsiveness
 ├── script.js    # interactions and behaviors
