@@ -192,7 +192,7 @@ h1 em {
 }
 .hero-stat {
   position: absolute;
-  bottom: 60px; left: -40px;
+  bottom: 60px; left: 24px;
   z-index: 5;
   background: var(--gray);
   border: 1px solid rgba(255,255,255,0.06);
